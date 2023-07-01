@@ -1,3 +1,4 @@
 # Joke-Genarator
-click on get joke 
-you will get new joke
+I Have Created This project
+Using HTML CSS JAVASCRIPT
+You Can Get Joke Per New Click
